@@ -1,2 +1,2 @@
 # Shiba
-A talking thing !
+Talking thing ! A chatbot everlearning from reality !
