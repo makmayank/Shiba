@@ -1,0 +1,5 @@
+numpy
+pickle5
+pandas
+tensorflow==1.13.2
+scikit-learn
