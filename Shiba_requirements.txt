@@ -1,5 +1,5 @@
 numpy
 pickle5
 pandas
-tensorflow==1.13.2
+tensorflow==2.5.1
 scikit-learn
